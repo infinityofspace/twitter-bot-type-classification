@@ -1,0 +1,2 @@
+include twitter_bot_type_classification/data/emoji-test.txt
+include twitter_bot_type_classification/data/html5ents.xml
